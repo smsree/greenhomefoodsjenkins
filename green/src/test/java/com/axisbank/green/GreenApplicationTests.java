@@ -1,4 +1,4 @@
-package com.axisbank.green;
+/*package com.axisbank.green;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -58,4 +58,4 @@ class RfoaApplicationTests {
 	
 
 }
-
+*/
